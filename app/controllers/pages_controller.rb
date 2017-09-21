@@ -4,7 +4,8 @@ class PagesController < ApplicationController
 
   end  
 
-  def thread
+  def posts
+    
   end 
     
 end
