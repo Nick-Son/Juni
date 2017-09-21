@@ -1,24 +1,11 @@
-# README
+# JuNi
+## a simple bulletin board app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple bulletin board app, where a user can create an account, setup a profile then be able to create new threads or comment on other people's threads.
 
-Things you may want to cover:
 
-* Ruby version
+## To develop later
+- The ability to comment on comments
+- reactions; reaction to posts, comments or both?
+- The ability for threads to be grouped in categories.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
