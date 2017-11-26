@@ -1,4 +1,6 @@
-# JuNi
+# Juni
+![Logo](/docs/images/logo.png)
+
 ## a simple bulletin board app
 
 A simple bulletin board app, where a user can create an account, setup a profile then be able to create new threads or comment on other people's threads.
